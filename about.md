@@ -5,7 +5,7 @@ description: "你的博客描述 "
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+素素：数学、生活、学习、乐趣……
 
 
 
