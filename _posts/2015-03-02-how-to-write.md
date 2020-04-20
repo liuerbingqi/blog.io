@@ -2,7 +2,7 @@
 layout: post
 title: 一篇博客文章模板
 date: 2019-3-02
-categories: 素素
+categories: 数学
 tags: [标签一,标签二]
 description: 文章金句。
 ---
